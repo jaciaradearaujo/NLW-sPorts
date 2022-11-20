@@ -1,7 +1,7 @@
 # NLW sPorts
 
-![preview] (./.github/preview.png)
-![preview png](https://user-images.githubusercontent.com/109833305/190935501-8f79c3ed-54be-4e6d-8798-9675a60600c9.png)
+![preview] (./.github/thumbnail_2.png)
+![thumbnail_2 png](https://user-images.githubusercontent.com/109833305/202876386-61e8d5bc-4dd1-41f6-af50-ac96c3454213.png)
 
 > Trilha Explorer
 
